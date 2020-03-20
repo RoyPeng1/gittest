@@ -5,5 +5,6 @@ public class TestMain {
         System.out.println("四月份能开学吗  五一以后会开学");
         System.out.println("明天会更好");
         System.out.println("yyyyyyyyyyyyyyyyyyyyy");
+        System.out.println("xxxxxxxxxxxxxxxxxxxxxx");
     }
 }
