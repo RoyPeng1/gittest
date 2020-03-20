@@ -3,5 +3,6 @@ public class TestMain {
         System.out.println("北网 北网 北网");
         System.out.println("bj bj bj bj bj");
         System.out.println("明天会更好");
+        System.out.println("xxxxxxxxxxxxxxxxxxxxxx");
     }
 }
